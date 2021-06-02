@@ -12,5 +12,8 @@ Permite almacenar datos extraidos del vehículo y sobre el conductor que tienen 
 ## Requerimientos
 * [Script Hook V](https://www.dev-c.com/gtav/scripthookv/) por Alexander Blade
 * [Script Hook V DotNet](https://github.com/crosire/scripthookvdotnet) por Crosire
+* [Open IV](https://openiv.com/) por Rage research proyect - Opcional
+* [Realistic Driving V](https://es.gta5-mods.com/vehicles/realistic-driving-v) por Killatomate - Opcional
+
 ## Documentación
 * [Documentación sobre el script](https://gxlab.000webhostapp.com/html/index.html) por KuroGxbo
